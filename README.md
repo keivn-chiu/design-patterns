@@ -2,6 +2,10 @@
 
 Study design patterns in GO.
 
+[Get reference here](https://github.com/senghoo/golang-design-pattern), it is hot. :-)
+
+## Creation modes
+
 - [singleton](./singleton/demo.go)
 
 - [simple factory](./factory-simple/demo.go)
@@ -13,3 +17,5 @@ Study design patterns in GO.
     `abstract factory` is similar to `Method factory`. Differences in my view:
     - `Method factory` only can produce one kind of obj.
     - `Abstract factory` can produce couples of kind of objs. 
+    
+- [builder](./builder/demo.go)
