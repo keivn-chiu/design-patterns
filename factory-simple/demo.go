@@ -22,7 +22,7 @@ func (*BDomain) do() {
 }
 
 // 工厂方法
-func factoryCreate(name string) domain{
+func factoryCreate(name string) domain {
 	switch name {
 	case "a":
 		return &ADomain{}
