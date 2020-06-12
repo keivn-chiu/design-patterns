@@ -2,6 +2,10 @@
 
 Study design patterns in GO.
 
+[Get reference here](https://github.com/senghoo/golang-design-pattern), it is hot. :-)
+
+## Creation modes
+
 - [singleton](./singleton/demo.go)
 
 - [simple factory](./factory-simple/demo.go)
