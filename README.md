@@ -10,4 +10,6 @@ Study design patterns in GO.
     `Method factory`
 
 - [abstract factory](./factory-abstract/demo.go) 
-    `abstract factory` is similar to `Method factory`.
+    `abstract factory` is similar to `Method factory`. Differences in my view:
+    - `Method factory` only can produce one kind of obj.
+    - `Abstract factory` can produce couples of kind of objs. 
