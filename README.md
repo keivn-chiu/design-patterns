@@ -17,3 +17,5 @@ Study design patterns in GO.
     `abstract factory` is similar to `Method factory`. Differences in my view:
     - `Method factory` only can produce one kind of obj.
     - `Abstract factory` can produce couples of kind of objs. 
+    
+- [builder](./builder/demo.go)
