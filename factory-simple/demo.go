@@ -1,4 +1,4 @@
-package simple_factory
+package factory_simple
 
 // 接口
 type domain interface {
