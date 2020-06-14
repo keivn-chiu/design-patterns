@@ -19,3 +19,5 @@ Study design patterns in GO.
     - `Abstract factory` can produce couples of kind of objs. 
     
 - [builder](./builder/demo.go)
+
+- [prototype](./prototype/demo.go)
