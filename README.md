@@ -21,3 +21,7 @@ Study design patterns in GO.
 - [builder](./builder/demo.go)
 
 - [prototype](./prototype/demo.go)
+
+## Structure modes
+
+- [facade](./facade/demo.go)
