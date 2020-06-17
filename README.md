@@ -25,3 +25,4 @@ Study design patterns in GO.
 ## Structure modes
 
 - [facade](./facade/demo.go)
+- [adapter](./adapter/demo.go)
