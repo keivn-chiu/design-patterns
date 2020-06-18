@@ -26,3 +26,4 @@ Study design patterns in GO.
 
 - [facade](./facade/demo.go)
 - [adapter](./adapter/demo.go)
+- [proxy](./proxy/demo.go)
