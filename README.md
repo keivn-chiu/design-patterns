@@ -28,3 +28,4 @@ Study design patterns in GO.
 - [adapter](./adapter/demo.go)
 - [proxy](./proxy/demo.go)
 - [composite](./composite/demo.go)
+- [flyweight](./flyweight/demo.go)
