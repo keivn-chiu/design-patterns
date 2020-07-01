@@ -30,3 +30,4 @@ Study design patterns in GO.
 - [composite](./composite/demo.go)
 - [flyweight](./flyweight/demo.go)
 - [decorator](./decorator/demo.go)
+- [bridge](./bridge/demo.go)
