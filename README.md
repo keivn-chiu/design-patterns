@@ -31,3 +31,7 @@ Study design patterns in GO.
 - [flyweight](./flyweight/demo.go)
 - [decorator](./decorator/demo.go)
 - [bridge](./bridge/demo.go)
+
+## Behavior modes
+
+- [mediator](./mediator/demo.go)
