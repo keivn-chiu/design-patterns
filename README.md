@@ -36,3 +36,4 @@ Study design patterns in GO.
 
 - [mediator](./mediator/demo.go)
 - [observer](./observer/demo.go)
+- [command](./command/demo.go)
