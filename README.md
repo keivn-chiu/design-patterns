@@ -35,3 +35,4 @@ Study design patterns in GO.
 ## Behavior modes
 
 - [mediator](./mediator/demo.go)
+- [observer](./observer/demo.go)
