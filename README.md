@@ -38,3 +38,4 @@ Study design patterns in GO.
 - [observer](./observer/demo.go)
 - [command](./command/demo.go)
 - [iterator](./iterator/demo.go)
+- [template](./template-method/demo.go)
