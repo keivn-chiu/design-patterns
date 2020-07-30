@@ -40,3 +40,4 @@ Study design patterns in GO.
 - [iterator](./iterator/demo.go)
 - [template](./template-method/demo.go)
 - [strategy](./strategy/demo.go)
+- [state](./state/demo.go)
