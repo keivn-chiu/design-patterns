@@ -41,4 +41,4 @@ Study design patterns in GO.
 - [template](./template-method/demo.go)
 - [strategy](./strategy/demo.go)
 - [state](./state/demo.go)
-- [memento](./state/demo.go)
+- [memento](./memento/demo.go)
