@@ -43,3 +43,4 @@ Study design patterns in GO.
 - [state](./state/demo.go)
 - [memento](./memento/demo.go)
 - [interpreter](./interpreter/demo.go)
+- [chain of responsibility](./chain-of-responsibility/demo.go)
